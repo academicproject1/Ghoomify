@@ -109,7 +109,7 @@ const AdminDashboard = () => {
         ))}
       </ul>
 
-      <h3>Payments</h3>
+      <h3 style={{fontWeight:'bolder', color:'red', textDecoration:'underline'}}>Payments : </h3>
 
       <table className="support-table">
               <thead>
@@ -132,7 +132,7 @@ const AdminDashboard = () => {
                 </tbody>
       </table>
 
-      <h3>Support</h3>
+      <h3 style={{fontWeight:'bolder', color:'red', textDecoration:'underline'}}>Support</h3>
         
       <table className="support-table">
               <thead>
@@ -155,7 +155,7 @@ const AdminDashboard = () => {
                 </tbody>
       </table>
 
-      <h3>All Tourists</h3>
+      <h3 style={{fontWeight:'bolder', color:'red', textDecoration:'underline'}}>All Tourists</h3>
 
 
       <table className="support-table">
@@ -179,7 +179,7 @@ const AdminDashboard = () => {
                 </tbody>
       </table>
 
-      <h3>All Guides</h3>
+      <h3 style={{fontWeight:'bolder', color:'red', textDecoration:'underline'}}>All Guides</h3>
 
 
       <table className="support-table">
